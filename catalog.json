@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-08-23T01:07:12Z",
+  "generatedAt": "2026-08-28T04:02:16Z",
   "channelId": "UC2keXOkFG0AjmXUdGtLes-A",
   "channelTitle": "Fisiologia Em Forma",
   "videos": [
+    {
+      "id": "8OwP7XjlNTc",
+      "title": "The Pleiades #space #universe #stars #nasa #sky",
+      "description": "",
+      "publishedAt": "2026-08-27T22:53:30Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/8OwP7XjlNTc/maxresdefault.jpg",
+      "durationSeconds": 15,
+      "isShort": true,
+      "primaryCategory": "Ciência • Astronomia",
+      "tags": [],
+      "score": 95
+    },
     {
       "id": "Zw2AfC0cwIA",
       "title": "Via Láctea #space #universe #stars #sky #nasa",
