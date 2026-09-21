@@ -1,8 +1,20 @@
 {
-  "generatedAt": "2026-09-21T12:48:52Z",
+  "generatedAt": "2026-09-21T21:58:47Z",
   "channelId": "UC2keXOkFG0AjmXUdGtLes-A",
   "channelTitle": "Fisiologia Em Forma",
   "videos": [
+    {
+      "id": "VFcGXrK7QTE",
+      "title": "Stars #space #universe #stars #nasa #cosmos",
+      "description": "",
+      "publishedAt": "2026-09-21T21:54:01Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VFcGXrK7QTE/maxresdefault.jpg",
+      "durationSeconds": 18,
+      "isShort": true,
+      "primaryCategory": "Ciência • Astronomia",
+      "tags": [],
+      "score": 95
+    },
     {
       "id": "GzT-udEAn08",
       "title": "Centaurus A #space #universe #stars #nasa #cosmos",
